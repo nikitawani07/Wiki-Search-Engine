@@ -38,8 +38,8 @@ Query can be a normal query like sachin tendulkar or a field query like t:sachin
 ## To Run:
 
 Run Main.java:
-    Input: xml dump
-    Output: index1.txt, index2.txt, index3.txt (Primary,Secondary and tertiary index files)
+    * Input: xml dump
+    * Output: index1.txt, index2.txt, index3.txt (Primary,Secondary and tertiary index files)
 			PrimaryTitleIndex, SecondaryTitleIndex (Primary and Secondary title files)
 
     javac Main.java
